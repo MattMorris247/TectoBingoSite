@@ -84123,7 +84123,7 @@ $0(){var s,r=A.Ow(),q=this.b.c,p=q.b
 r.m5(p,q.a,q.x)
 if(q.r){s=this.a
 r.lj(p,s.a)
-A.aI().$1("Custom value = "+s.a)}else r.lj(p,q.w)
+A.aI().$1("Custom value = "+s.a)}else if(q.x)r.lj(p,q.w)
 A.aI().$1("tile completed = "+q.x)
 A.cM(this.c,!1).d6()},
 $S:0}
@@ -84168,7 +84168,7 @@ $0(){var s,r=A.Ow(),q=this.b.c,p=q.b
 r.m6(p,q.a,q.ay)
 if(q.at){s=this.a
 r.lj(p,s.a)
-A.aI().$1("Custom value = "+s.a)}else r.lj(p,q.ax)
+A.aI().$1("Custom value = "+s.a)}else if(q.ay)r.lj(p,q.ax)
 A.aI().$1("tile completed = "+q.ay)
 A.cM(this.c,!1).d6()},
 $S:0}
