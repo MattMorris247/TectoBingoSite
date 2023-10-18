@@ -83687,7 +83687,7 @@ m.a=!1
 s=(l==null?n:l.b)==="mod@gmail.com"&&(m.a=!0)
 r=this.d
 q=r.a.im()
-p=s?"Team 1's Board\n(Mod Manager)":"Team 1's Board"
+p=s?"Boo Cocky's Board\n(Mod Manager)":"Boo Cocky's Board"
 p=A.b5(p,n,n,n,A.bt().$2$fontSize$letterSpacing(24,-2.5),n,n)
 s=s&&!0
 o=A.ln(n,n,n,n,n,n,n,n,n,B.k,n,n,n,n,n,n,n,n,n)
