@@ -83747,7 +83747,7 @@ m.a=!1
 s=(l==null?n:l.b)==="mod@gmail.com"&&(m.a=!0)
 r=this.d
 q=r.a.im()
-p=s?"Team 2's Board\n(Mod Manager)":"Team 2's Board"
+p=s?"Woke Club's Board\n(Mod Manager)":"Woke Club's Board"
 p=A.b5(p,n,n,n,A.bt().$2$fontSize$letterSpacing(24,-2.5),n,n)
 s=s&&!0
 o=A.ln(n,n,n,n,n,n,n,n,n,B.k,n,n,n,n,n,n,n,n,n)
@@ -83927,7 +83927,7 @@ m.a=!1
 s=(l==null?n:l.b)==="mod@gmail.com"&&(m.a=!0)
 r=this.d
 q=r.a.im()
-p=s?"Team 5's Board\n(Mod Manager)":"Team 5's Board"
+p=s?"Weo and the White Wites' Board\n(Mod Manager)":"Weo and the White Wites' Board"
 p=A.b5(p,n,n,n,A.bt().$2$fontSize$letterSpacing(24,-2.5),n,n)
 s=s&&!0
 o=A.ln(n,n,n,n,n,n,n,n,n,B.k,n,n,n,n,n,n,n,n,n)
