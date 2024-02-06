@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2bf5e3b4485cb3565bc1da3271257874",
-"assets/AssetManifest.json": "1ade14a5bb79876d1163fc10221c1ab1",
+const RESOURCES = {"assets/AssetManifest.bin": "46f101e1bf8c4ccede04f59bb5ae8a31",
+"assets/AssetManifest.json": "6436a2a9e6adbea60badab1a7e5e8c9a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "9d4b4936f00f2c06016e2931d4dad402",
 "assets/images/flip1.png": "007614530571553d878ce5d9436eaaee",
@@ -47,6 +47,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2bf5e3b4485cb3565bc1da3271257874
 "assets/images/tile2.png": "e4a2329631455b8ebe1de397f7e9198b",
 "assets/images/tile20.png": "f1a9da20de7ba28a76bb4ffd079f59ca",
 "assets/images/tile21.png": "0ba8b9a565621025836ac3aa94f22b5e",
+"assets/images/tile21fake.png": "e585197245ec30e80e608a38e93507fe",
 "assets/images/tile22.png": "3e32c7cf67278499e0182a1c7401b72c",
 "assets/images/tile23.png": "595ee9aacf7263dc9a059c125d930b63",
 "assets/images/tile24.png": "e7fd9b1c6939818d7f04653f0bede7a8",
@@ -75,9 +76,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2bf5e3b4485cb3565bc1da3271257874
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "89d2febe3c48c659738f9a126eff009f",
-"/": "89d2febe3c48c659738f9a126eff009f",
-"main.dart.js": "64b2ef1a466e00d582890b7a5a791af7",
+"index.html": "0b52c53542cf83bd962c40280f02b1a9",
+"/": "0b52c53542cf83bd962c40280f02b1a9",
+"main.dart.js": "992ffbe6451a3e0a77beea5916006f15",
 "manifest.json": "b78c3dc630c94ed03941ae8e5d9c126b",
 "version.json": "a48dc5c8d411d80ca1d23da4b9ee315f"};
 // The application shell files that are downloaded before a service worker can
