@@ -86801,8 +86801,7 @@ s=l.d
 q=s.gWg()
 p=l.y
 o=l.z
-n=r?h+"'s Board\n    (Mod Manager)":h+"'s Board"
-n=A.R(n,k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
+n=A.R(h+"'s Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
 r=r&&!0
 m=A.j5(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
 return A.vc(new A.aqq(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqr(l,a),m)],t.p),r,o,!0,k,n),p,A.CA(new A.aqs(j,l),s.gkf(),t.S)),B.df,q,t.GO)}}
@@ -86941,8 +86940,7 @@ s=l.d
 q=s.a.iH()
 p=l.y
 o=l.z
-n=r?h+"'s Board\n   (Mod Manager)":h+"'s Board"
-n=A.R(n,k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
+n=A.R(h+"'s Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
 r=r&&!0
 m=A.j5(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
 return A.vc(new A.aqy(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqz(l,a),m)],t.p),r,o,!0,k,n),p,A.CA(new A.aqA(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadR(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
@@ -86980,7 +86978,7 @@ o=A.dm(k,B.eY,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
 m=n.b
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
-m=A.eg(A.bs(A.R("Reset board & points",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqv(q,a),l),m)
+m=A.eg(A.bs(A.R("Reset Board & Points",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqv(q,a),l),m)
 n=n.a
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 return A.Ce(A.aD(A.cI(A.a([new A.bH(B.aM,s,k),p,new A.bH(B.d9,o,k),m,B.a5,A.eg(A.bs(A.R("Reset Team 2 Tile Notes ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqw(q,a),l),n)],t.p),B.B,B.u,B.a2),k,k))}}},
@@ -87061,8 +87059,7 @@ s=l.d
 q=s.a.iH()
 p=l.y
 o=l.z
-n=r?h+"' Board\n    (Mod Manager)":h+"' Board"
-n=A.R(n,k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
+n=A.R(h+"' Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
 r=r&&!0
 m=A.j5(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
 return A.vc(new A.aqG(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqH(l,a),m)],t.p),r,o,!0,k,n),p,A.CA(new A.aqI(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadT(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
@@ -87100,7 +87097,7 @@ o=A.dm(k,B.eY,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
 m=n.b
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
-m=A.eg(A.bs(A.R("Reset board & points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqD(q,a),l),m)
+m=A.eg(A.bs(A.R("Reset Board & Points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqD(q,a),l),m)
 n=n.a
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 return A.Ce(A.aD(A.cI(A.a([new A.bH(B.aM,s,k),p,new A.bH(B.d9,o,k),m,B.a5,A.eg(A.bs(A.R("Reset Team 3 Tile Notes ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqE(q,a),l),n)],t.p),B.B,B.u,B.a2),k,k))}}},
@@ -87181,8 +87178,7 @@ s=l.d
 q=s.a.iH()
 p=l.y
 o=l.z
-n=r?h+"'s Board\n(Mod Manager)":h+"'s Board"
-n=A.R(n,k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
+n=A.R(h+"'s Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
 r=r&&!0
 m=A.j5(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
 return A.vc(new A.aqO(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqP(l,a),m)],t.p),r,o,!0,k,n),p,A.CA(new A.aqQ(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadV(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
@@ -87220,7 +87216,7 @@ o=A.dm(k,B.eY,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
 m=n.b
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
-m=A.eg(A.bs(A.R("Reset board & points",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqL(q,a),l),m)
+m=A.eg(A.bs(A.R("Reset Board & Points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqL(q,a),l),m)
 n=n.a
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 return A.Ce(A.aD(A.cI(A.a([new A.bH(B.aM,s,k),p,new A.bH(B.d9,o,k),m,B.a5,A.eg(A.bs(A.R("Reset Team 4 Tile Notes ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqM(q,a),l),n)],t.p),B.B,B.u,B.a2),k,k))}}},
@@ -87301,8 +87297,7 @@ s=l.d
 q=s.a.iH()
 p=l.y
 o=l.z
-n=r?h+" Board\n             (Mod Manager)":h+" Board"
-n=A.R(n,k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
+n=A.R(h+" Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
 r=r&&!0
 m=A.j5(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
 return A.vc(new A.aqW(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqX(l,a),m)],t.p),r,o,!0,k,n),p,A.CA(new A.aqY(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadX(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
@@ -87340,7 +87335,7 @@ o=A.dm(k,B.eY,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
 m=n.b
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
-m=A.eg(A.bs(A.R("Reset board & points)",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqT(q,a),l),m)
+m=A.eg(A.bs(A.R("Reset Board & Points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqT(q,a),l),m)
 n=n.a
 l=A.br(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 return A.Ce(A.aD(A.cI(A.a([new A.bH(B.aM,s,k),p,new A.bH(B.d9,o,k),m,B.a5,A.eg(A.bs(A.R("Reset Team 5 Tile Notes ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqU(q,a),l),n)],t.p),B.B,B.u,B.a2),k,k))}}},
