@@ -86843,10 +86843,10 @@ m=A.eg(A.bs(A.R("Reset Board & Points ",i,i,i,A.T().$1$letterSpacing(-1.5),i,i),
 l=n.a
 k=A.br(i,i,q.Q,i,i,i,i,i,i,i,i,B.L,i,i,i,i,i,B.x,i)
 l=A.eg(A.bs(A.R("Reset Team 1 Tile Notes ",i,i,i,A.T().$1$letterSpacing(-1.5),i,i),new A.aqm(q,a),k),l)
-k=n.a
+k=n.b
 j=A.br(i,i,q.Q,i,i,i,i,i,i,i,i,B.L,i,i,i,i,i,B.x,i)
 k=A.eg(A.bs(A.R("Jedi Button - Reveal  ",i,i,i,A.T().$1$letterSpacing(-1.5),i,i),new A.aqn(q,a),j),k)
-n=n.a
+n=n.b
 j=A.br(i,i,q.Q,i,i,i,i,i,i,i,i,B.L,i,i,i,i,i,B.x,i)
 return A.Ce(A.aD(A.cI(A.a([new A.bH(B.aM,s,i),p,new A.bH(B.d9,o,i),B.c2,m,B.a5,l,B.a5,k,B.a5,A.eg(A.bs(A.R("Jedi Button - Hide ",i,i,i,A.T().$1$letterSpacing(-1.5),i,i),new A.aqo(q,a),j),n)],t.p),B.B,B.u,B.a2),i,i))}}},
 $S:43}
