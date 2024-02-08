@@ -86784,7 +86784,7 @@ p=A.bq(i,i,q.Q,i,i,i,i,i,i,i,i,B.L,i,i,i,i,i,B.x,i)
 p=A.br(A.R("Toggle Black & White Mode ",i,i,i,A.T().$1$letterSpacing(-1.5),i,i),new A.aqk(q,a),p)
 o=A.dm(i,B.eX,B.q,i,B.d0,i,i,i,i,i)
 n=this.a
-m=n.b
+m=n.a
 l=A.bq(i,i,q.Q,i,i,i,i,i,i,i,i,B.L,i,i,i,i,i,B.x,i)
 m=A.ef(A.br(A.R("Reset Board & Points ",i,i,i,A.T().$1$letterSpacing(-1.5),i,i),new A.aql(q,a),l),m)
 l=n.a
@@ -86875,22 +86875,22 @@ p.rQ("Bool","colorBlind",o!==!0)
 q.aq()
 return A.C(null,r)}})
 return A.D($async$dn,r)},
-K(a){var s,r,q,p,o,n,m,l=this,k=null,j={},i=A.iS(a,t.Uw),h=l.w
-j.a=j.b=!1
-s=i==null
-if((s?k:i.b)!=="mod@gmail.com")if((s?k:i.b)!=="dev@gmail.com")r=(s?k:i.b)==="mod2@gmail.com"
+K(a){var s,r,q,p,o,n,m,l,k=this,j=null,i={},h=A.iS(a,t.Uw),g=k.w
+i.a=!1
+s=h==null
+if((s?j:h.b)!=="mod@gmail.com")if((s?j:h.b)!=="dev@gmail.com")r=(s?j:h.b)==="mod2@gmail.com"
 else r=!0
 else r=!0
-r=r&&(j.b=!0)
-if((s?k:i.b)==="dev@gmail.com")j.a=!0
-s=l.d
-q=s.a.iH()
-p=l.y
-o=l.z
-n=A.R(h+"'s Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
-r=r&&!0
-m=A.j4(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
-return A.vc(new A.aqy(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqz(l,a),m)],t.p),r,o,!0,k,n),p,A.Cz(new A.aqA(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadR(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
+q=r&&!0
+if((s?j:h.b)==="dev@gmail.com")i.a=!0
+s=k.d
+r=s.a.iH()
+p=k.y
+o=k.z
+n=A.R(g+"'s Board",j,j,j,A.T().$2$fontSize$letterSpacing(24,-2.5),j,j)
+m=q&&!0
+l=A.j4(j,j,j,j,j,j,j,j,j,B.j,j,j,j,j,j,j,j,j,j)
+return A.vc(new A.aqy(),A.lG(A.kL(A.a([A.eF(A.R("Logout",j,j,j,A.T().$2$fontSize$letterSpacing(18,-2.5),j,j),new A.aqz(k,a),l)],t.p),m,o,!0,j,n),p,A.Cz(new A.aqA(i,k),s.gkf(),t.S)),B.df,new A.bI(s.gadR(),r,r.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
 A.aqB.prototype={
 $0(){},
 $S:0}
@@ -86923,7 +86923,7 @@ p=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 p=A.br(A.R("Toggle Black & White Mode ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqu(q,a),p)
 o=A.dm(k,B.eX,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
-m=n.b
+m=n.a
 l=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 m=A.ef(A.br(A.R("Reset Board & Points",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqv(q,a),l),m)
 n=n.a
@@ -86994,22 +86994,22 @@ p.rQ("Bool","colorBlind",o!==!0)
 q.aq()
 return A.C(null,r)}})
 return A.D($async$dn,r)},
-K(a){var s,r,q,p,o,n,m,l=this,k=null,j={},i=A.iS(a,t.Uw),h=l.w
-j.a=j.b=!1
-s=i==null
-if((s?k:i.b)!=="mod@gmail.com")if((s?k:i.b)!=="dev@gmail.com")r=(s?k:i.b)==="mod3@gmail.com"
+K(a){var s,r,q,p,o,n,m,l,k=this,j=null,i={},h=A.iS(a,t.Uw),g=k.w
+i.a=!1
+s=h==null
+if((s?j:h.b)!=="mod@gmail.com")if((s?j:h.b)!=="dev@gmail.com")r=(s?j:h.b)==="mod3@gmail.com"
 else r=!0
 else r=!0
-r=r&&(j.b=!0)
-if((s?k:i.b)==="dev@gmail.com")j.a=!0
-s=l.d
-q=s.a.iH()
-p=l.y
-o=l.z
-n=A.R(h+"' Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
-r=r&&!0
-m=A.j4(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
-return A.vc(new A.aqG(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqH(l,a),m)],t.p),r,o,!0,k,n),p,A.Cz(new A.aqI(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadT(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
+q=r&&!0
+if((s?j:h.b)==="dev@gmail.com")i.a=!0
+s=k.d
+r=s.a.iH()
+p=k.y
+o=k.z
+n=A.R(g+"' Board",j,j,j,A.T().$2$fontSize$letterSpacing(24,-2.5),j,j)
+m=q&&!0
+l=A.j4(j,j,j,j,j,j,j,j,j,B.j,j,j,j,j,j,j,j,j,j)
+return A.vc(new A.aqG(),A.lG(A.kL(A.a([A.eF(A.R("Logout",j,j,j,A.T().$2$fontSize$letterSpacing(18,-2.5),j,j),new A.aqH(k,a),l)],t.p),m,o,!0,j,n),p,A.Cz(new A.aqI(i,k),s.gkf(),t.S)),B.df,new A.bI(s.gadT(),r,r.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
 A.aqJ.prototype={
 $0(){},
 $S:0}
@@ -87042,7 +87042,7 @@ p=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 p=A.br(A.R("Toggle Black & White Mode ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqC(q,a),p)
 o=A.dm(k,B.eX,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
-m=n.b
+m=n.a
 l=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 m=A.ef(A.br(A.R("Reset Board & Points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqD(q,a),l),m)
 n=n.a
@@ -87113,22 +87113,22 @@ p.rQ("Bool","colorBlind",o!==!0)
 q.aq()
 return A.C(null,r)}})
 return A.D($async$dn,r)},
-K(a){var s,r,q,p,o,n,m,l=this,k=null,j={},i=A.iS(a,t.Uw),h=l.w
-j.a=j.b=!1
-s=i==null
-if((s?k:i.b)!=="mod@gmail.com")if((s?k:i.b)!=="dev@gmail.com")r=(s?k:i.b)==="mod4@gmail.com"
+K(a){var s,r,q,p,o,n,m,l,k=this,j=null,i={},h=A.iS(a,t.Uw),g=k.w
+i.a=!1
+s=h==null
+if((s?j:h.b)!=="mod@gmail.com")if((s?j:h.b)!=="dev@gmail.com")r=(s?j:h.b)==="mod4@gmail.com"
 else r=!0
 else r=!0
-r=r&&(j.b=!0)
-if((s?k:i.b)==="dev@gmail.com")j.a=!0
-s=l.d
-q=s.a.iH()
-p=l.y
-o=l.z
-n=A.R(h+"'s Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
-r=r&&!0
-m=A.j4(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
-return A.vc(new A.aqO(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqP(l,a),m)],t.p),r,o,!0,k,n),p,A.Cz(new A.aqQ(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadV(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
+q=r&&!0
+if((s?j:h.b)==="dev@gmail.com")i.a=!0
+s=k.d
+r=s.a.iH()
+p=k.y
+o=k.z
+n=A.R(g+"'s Board",j,j,j,A.T().$2$fontSize$letterSpacing(24,-2.5),j,j)
+m=q&&!0
+l=A.j4(j,j,j,j,j,j,j,j,j,B.j,j,j,j,j,j,j,j,j,j)
+return A.vc(new A.aqO(),A.lG(A.kL(A.a([A.eF(A.R("Logout",j,j,j,A.T().$2$fontSize$letterSpacing(18,-2.5),j,j),new A.aqP(k,a),l)],t.p),m,o,!0,j,n),p,A.Cz(new A.aqQ(i,k),s.gkf(),t.S)),B.df,new A.bI(s.gadV(),r,r.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
 A.aqR.prototype={
 $0(){},
 $S:0}
@@ -87161,7 +87161,7 @@ p=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 p=A.br(A.R("Toggle Black & White Mode ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqK(q,a),p)
 o=A.dm(k,B.eX,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
-m=n.b
+m=n.a
 l=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 m=A.ef(A.br(A.R("Reset Board & Points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqL(q,a),l),m)
 n=n.a
@@ -87232,22 +87232,22 @@ p.rQ("Bool","colorBlind",o!==!0)
 q.aq()
 return A.C(null,r)}})
 return A.D($async$dn,r)},
-K(a){var s,r,q,p,o,n,m,l=this,k=null,j={},i=A.iS(a,t.Uw),h=l.w
-j.a=j.b=!1
-s=i==null
-if((s?k:i.b)!=="mod@gmail.com")if((s?k:i.b)!=="dev@gmail.com")r=(s?k:i.b)==="mod5@gmail.com"
+K(a){var s,r,q,p,o,n,m,l,k=this,j=null,i={},h=A.iS(a,t.Uw),g=k.w
+i.a=!1
+s=h==null
+if((s?j:h.b)!=="mod@gmail.com")if((s?j:h.b)!=="dev@gmail.com")r=(s?j:h.b)==="mod5@gmail.com"
 else r=!0
 else r=!0
-r=r&&(j.b=!0)
-if((s?k:i.b)==="dev@gmail.com")j.a=!0
-s=l.d
-q=s.a.iH()
-p=l.y
-o=l.z
-n=A.R(h+" Board",k,k,k,A.T().$2$fontSize$letterSpacing(24,-2.5),k,k)
-r=r&&!0
-m=A.j4(k,k,k,k,k,k,k,k,k,B.j,k,k,k,k,k,k,k,k,k)
-return A.vc(new A.aqW(),A.lG(A.kL(A.a([A.eF(A.R("Logout",k,k,k,A.T().$2$fontSize$letterSpacing(18,-2.5),k,k),new A.aqX(l,a),m)],t.p),r,o,!0,k,n),p,A.Cz(new A.aqY(j,l),s.gkf(),t.S)),B.df,new A.bI(s.gadX(),q,q.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
+q=r&&!0
+if((s?j:h.b)==="dev@gmail.com")i.a=!0
+s=k.d
+r=s.a.iH()
+p=k.y
+o=k.z
+n=A.R(g+" Board",j,j,j,A.T().$2$fontSize$letterSpacing(24,-2.5),j,j)
+m=q&&!0
+l=A.j4(j,j,j,j,j,j,j,j,j,B.j,j,j,j,j,j,j,j,j,j)
+return A.vc(new A.aqW(),A.lG(A.kL(A.a([A.eF(A.R("Logout",j,j,j,A.T().$2$fontSize$letterSpacing(18,-2.5),j,j),new A.aqX(k,a),l)],t.p),m,o,!0,j,n),p,A.Cz(new A.aqY(i,k),s.gkf(),t.S)),B.df,new A.bI(s.gadX(),r,r.$ti.i("bI<b7.T,K<dF>>")),t.GO)}}
 A.aqZ.prototype={
 $0(){},
 $S:0}
@@ -87280,7 +87280,7 @@ p=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 p=A.br(A.R("Toggle Black & White Mode ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqS(q,a),p)
 o=A.dm(k,B.eX,B.q,k,B.d0,k,k,k,k,k)
 n=this.a
-m=n.b
+m=n.a
 l=A.bq(k,k,q.Q,k,k,k,k,k,k,k,k,B.L,k,k,k,k,k,B.x,k)
 m=A.ef(A.br(A.R("Reset Board & Points ",k,k,k,A.T().$1$letterSpacing(-1.5),k,k),new A.aqT(q,a),l),m)
 n=n.a
