@@ -1,11 +1,11 @@
 {
-    "name": "bumpbets",
-    "short_name": "bumpbets",
+    "name": "tectobingo",
+    "short_name": "tectobingo",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#000000",
+    "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Tectonic's Valentine Bingo",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
