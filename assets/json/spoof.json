@@ -1,0 +1,79 @@
+[{
+    "betTitle": "ATL • Moneyline", 
+    "betID": "1", 
+    "market": "h2h",
+    "bookMakers": ["DraftKings","FanDuel","BetMGM","ESPN BET","PointsBet (US)"], 
+    "odds": [-130.0,-132.0,-135.0,-135.0 ,-140.0 ], 
+    "betLinks": ["https://sportsbook.draftkings.com/event/30568825?outcomes=0ML75256314_1","https://www.fanduel.com/sportsbook","https://www.betmgm.com/en/nfl", "https://espnbet.com","https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+    "league": "NFL",
+    "sport": "americanfootball_nfl",
+    "team": "Atlanta Falcons",
+    "teamColor": "a71930", 
+    "teamCity"  : "Atlanta",
+    "teamABV": "ATL",
+    "teamRecord": "1 - 2",
+    "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "opposing_team": "New Orleans Saints",
+    "opposing_teamCity": "New Orleans",
+    "opposing_teamABV": "NO",
+    "opposing_teamRecord": "2 - 1", 
+    "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "homeTeam" : "ATL",
+    "start_time": "2024-09-29T13-00-00Z"
+}
+,
+{
+    "betTitle": "ATL • Spread U-2.5", 
+    "betID": "2", 
+    "market": "h2h",
+    "bookMakers": ["FanDuel","BetMGM","ESPN BET","PointsBet (US)","DraftKings"], 
+    "odds": [-110.0, -110.0,-110.0,-110.0,-112.0], 
+    "betLinks": ["https://sportsbook.draftkings.com/event/31090398?outcomes=0ML76811115_3","https://www.fanduel.com/sportsbook","https://www.betmgm.com/en/nfl", "https://espnbet.com","https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+    "league": "NFL",
+    "sport": "americanfootball_nfl",
+    "team": "Atlanta Falcons",
+    "teamColor": "a71930", 
+    "teamCity"  : "Atlanta",
+    "teamABV": "ATL",
+    "teamRecord": "1 - 2",
+    "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "opposing_team": "New Orleans Saints",
+    "opposing_teamCity": "New Orleans",
+    "opposing_teamABV": "NO",
+    "opposing_teamRecord": "2 - 1", 
+    "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "homeTeam" : "ATL",
+    "start_time": "2024-09-29T13-00-00Z"
+}
+
+,
+{
+    "betTitle": "ATL  • Total O 42", 
+    "betID": "4", 
+    "market": "h2h",
+    "bookMakers": ["DraftKings","FanDuel","BetMGM","ESPN BET","PointsBet (US)"], 
+    "odds": [-112.0,-110.0,-110.0,-110.0,-112.0], 
+        "betLinks": ["https://sportsbook.draftkings.com/event/31090398?outcomes=0ML76811115_3","https://www.fanduel.com/sportsbook","https://www.betmgm.com/en/nfl", "https://espnbet.com","https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+        "league": "NFL",
+        "sport": "americanfootball_nfl",
+        "team": "Atlanta Falcons",
+        "teamColor": "a71930", 
+        "teamCity"  : "Atlanta",
+        "teamABV": "ATL",
+        "teamRecord": "1 - 2",
+        "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+        "opposing_team": "New Orleans Saints",
+        "opposing_teamCity": "New Orleans",
+        "opposing_teamABV": "NO",
+        "opposing_teamRecord": "2 - 1", 
+        "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+        "homeTeam" : "ATL",
+        "start_time": "2024-09-29T13-00-00Z"
+    }
+
+
+
+
+
+
+]

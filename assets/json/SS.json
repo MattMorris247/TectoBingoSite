@@ -1,0 +1,40 @@
+[
+  {
+    "id": "BACT_a6facab0cfbc4b24930a1104083f9443",
+    "bettor": "BTTR_4a7d2fbc5c494307a3469cf06831caf3",
+    "book": {
+      "id": "BOOK_Rf7xRhS7TKQUl94Xkt5w",
+      "name": "Fanduel",
+      "abbr": "fd"
+    },
+    "bookRegion": {
+      "id": "BRGN_7a15553bc3a941a5b6a5d158444cb75f",
+      "name": "Connecticut",
+      "abbr": "ct",
+      "status": "active",
+      "country": "United States",
+      "sdkRequired": true,
+      "mobileOnly": true
+    },
+    "verified": true,
+    "access": true,
+    "paused": false,
+    "betRefreshRequested": "2024-09-12T01:09:23.562214Z",
+    "latestRefreshResponse": {
+      "id": "RRES_69f6326d2571466e92c5f3a4de596d35",
+      "timeCreated": "2024-09-12T01:09:31.002196Z",
+      "status": 500,
+      "detail": "There was an error refreshing bets for this account, please try again later",
+      "requestId": "6a6fb3a666b5481f83e36418615eadf1",
+      "type": "verify"
+    },
+    "latestRefreshRequestId": "6a6fb3a666b5481f83e36418615eadf1",
+    "balance": 0,
+    "timeCreated": "2024-09-12T01:09:23.092764Z",
+    "missingBets": 0,
+    "isUnverifiable": false,
+    "timeUnverified": null,
+    "TFA": false,
+    "refreshInProgress": false
+  }
+]

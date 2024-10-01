@@ -1,0 +1,186 @@
+[
+
+    {
+        "betTitle": "ATL • Moneyline", 
+        "betID": "1", 
+        "market": "h2h",
+        "bookMakers": ["DraftKings","FanDuel","BetMGM","ESPN BET","PointsBet (US)","Caesars"], 
+        "odds": [-1300.0,-1450.0,-1500.0,-1550.0,-1800.0, -2000.0], 
+        "betLinks": ["https://sportsbook.draftkings.com/event/31090398?outcomes=0ML76811115_3","https://www.fanduel.com/sportsbook","https://www.betmgm.com/en/nfl", "https://espnbet.com","https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+        "league": "NFL",
+        "sport": "americanfootball_nfl",
+        "team": "Atlanta Falcons",
+        "teamColor": "a71930", 
+        "teamCity"  : "Atlanta",
+        "teamABV": "ATL",
+        "teamRecord": "4 - 1",
+        "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+        "opposing_team": "New Orleans Saints",
+        "opposing_teamCity": "New Orleans",
+        "opposing_teamABV": "NO",
+        "opposing_teamRecord": "3 - 2", 
+        "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+        "homeTeam" : "ATL",
+        "start_time": "2024-09-13T16-30-00Z"
+    }
+    , 
+    {
+        "betTitle": "NO • Moneyline", 
+        "betID": "2", 
+        "market": "h2h",
+        "bookMakers": ["DraftKings","FanDuel","BetMGM","ESPN BET","PointsBet (US)","Caesars"], 
+        "odds": [1300.0,1450.0,1500.0,1550.0,1800.0, 2000.0], 
+        "betLinks": ["https://sportsbook.draftkings.com","https://www.fanduel.com/sportsbook","https://www.betmgm.com/en/nfl", "https://espnbet.com","https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+        "league": "NFL",
+        "sport": "americanfootball_nfl",
+        "team": "New Orleans Saints",
+        "teamColor": "d3bc8d", 
+        "teamCity"  : "New Orleans",
+        "teamABV": "NO",
+        "teamRecord": "3 - 2",
+        "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+        "opposing_team": "Atlanta Falcons",
+        "opposing_teamCity": "Atlanta",
+        "opposing_teamABV": "ATL",
+        "opposing_teamRecord": "4 - 1", 
+        "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+        "homeTeam" : "ATL",
+        "start_time": "2024-09-13T16-30-00Z"
+    }
+,
+
+ 
+    {
+        "betTitle": "LAR • Moneyline", 
+        "betID": "3", 
+        "market": "h2h",
+        "bookMakers": ["FanDuel","DraftKings","ESPN BET","BetMGM","PointsBet (US)","Caesars"], 
+        "odds": [190.0,210.0,215.0,250.0,300.0 ,350.0], 
+        "betLinks": ["https://www.fanduel.com/sportsbook","https://sportsbook.draftkings.com","https://espnbet.com","https://www.betmgm.com/en/nfl", "https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+        "league": "NFL",
+        "sport": "americanfootball_nfl",
+        "team": "Los Angeles Rams",
+        "teamColor": "003594", 
+        "teamCity"  : "Los Angeles",
+        "teamABV": "LAR",
+        "teamRecord": "5 - 1",
+        "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+        "opposing_team": "New England Patriots",
+        "opposing_teamCity": "New England",
+        "opposing_teamABV": "NE",
+        "opposing_teamRecord": "3 - 2", 
+        "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+        "homeTeam" : "LAR",
+        "start_time": "2024-09-13T16-30-00Z"
+    }
+    ,
+    
+{
+    "betTitle": "BUF • Moneyline", 
+    "betID": "7", 
+    "market": "h2h",
+    "bookMakers": ["ESPN BET","BetMGM","FanDuel","DraftKings","PointsBet (US)","Caesars"], 
+    "odds": [-100.0,-105.0,-110.0,-115.0,-120.0, -130.0], 
+    "betLinks": ["https://www.betmgm.com/en/nfl","https://www.fanduel.com/sportsbook","https://sportsbook.draftkings.com","https://espnbet.com", "https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+    "league": "NFL",
+    "sport": "americanfootball_nfl",
+    "team": "Buffalo Bills",
+    "teamColor": "00338d", 
+    "teamCity"  : "Buffalo",
+    "teamABV": "BUF",
+    "teamRecord": "4 - 2",
+    "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "opposing_team": "Tennessee Titans",
+    "opposing_teamCity": "Tennessee",
+    "opposing_teamABV": "TEN",
+    "opposing_teamRecord": "4 - 2", 
+    "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "homeTeam" : "TEN",
+    "start_time": "2024-09-13T16-30-00Z"
+}
+,
+    
+    {
+        "betTitle": "BAL • Moneyline", 
+        "betID": "4", 
+        "market": "h2h",
+        "bookMakers": ["BetMGM","FanDuel","DraftKings","ESPN BET","PointsBet (US)","Caesars"], 
+        "odds": [-120.0,-125.0,-130.0,-135.0,-140.0, -150.0], 
+        "betLinks": ["https://www.betmgm.com/en/nfl","https://www.fanduel.com/sportsbook","https://sportsbook.draftkings.com","https://espnbet.com", "https://sportsbook.fanatics.com","https://www.caesars.com/sportsbook-and-casino"],
+        "league": "NFL",
+        "sport": "americanfootball_nfl",
+        "team": "Baltimore Ravens",
+        "teamColor": "29126f", 
+        "teamCity"  : "Baltimore",
+        "teamABV": "BAL",
+        "teamRecord": "6 - 0",
+        "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "opposing_team": "Minnesota Vikings",
+        "opposing_teamCity": "Minnesota",
+        "opposing_teamABV": "MIN",
+        "opposing_teamRecord": "0 - 6", 
+        "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+        "homeTeam" : "BAL",
+        "start_time": "2024-09-13T16-30-00Z"
+    }
+,
+     
+{
+    "betTitle": "GB • Moneyline", 
+    "betID": "6", 
+    "market": "h2h",
+    "bookMakers": ["Caesars","DraftKings","ESPN BET","BetMGM","PointsBet (US)","FanDuel"], 
+    "odds": [-200.0,-220.0,-225.0,-250.0,-275.0,-300.0], 
+    "betLinks": ["https://www.caesars.com/sportsbook-and-casino","https://sportsbook.draftkings.com","https://espnbet.com","https://www.betmgm.com/en/nfl", "https://sportsbook.fanatics.com", "https://www.fanduel.com/sportsbook"],
+    "league": "NFL",
+    "sport": "americanfootball_nfl",
+    "team": "Green Bay Packers",
+    "teamColor": "204e32", 
+    "teamCity"  : "Green Bay",
+    "teamABV": "GB",
+    "teamRecord": "6 - 0",
+    "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "opposing_team": "Arizona Cardinals",
+    "opposing_teamCity": "Arizona",
+    "opposing_teamABV": "ARI",
+    "opposing_teamRecord": "6 - 0", 
+    "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "homeTeam" : "Green Bay Packers",
+    "start_time": "2024-09-13T16-30-00Z"
+},
+{
+    "betTitle": "KC • Moneyline", 
+    "betID": "5", 
+    "market": "h2h",
+    "bookMakers": ["PointsBet (US)","FanDuel","BetMGM","ESPN BET","Caesars"], 
+    "odds": [-150.0,-160.0,-165.0,-170.0,-180.0, -200.0], 
+    "betLinks": ["https://sportsbook.fanatics.com","https://www.fanduel.com/sportsbook","https://www.betmgm.com/en/nfl", "https://espnbet.com","https://www.caesars.com/sportsbook-and-casino"],
+    "league": "NFL",
+    "sport": "americanfootball_nfl",
+    "team": "Kansas City Chiefs",
+    "teamColor": "e31837", 
+    "teamCity"  : "Kansas City",
+    "teamABV": "KC",
+    "teamRecord": "5 - 1",
+    "teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "opposing_team": "Las Vegas Raiders",
+    "opposing_teamCity": "Las Vegas",
+    "opposing_teamABV": "LV",
+    "opposing_teamRecord": "3 - 3", 
+    "opposing_teamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "homeTeam" : "Kansas City Chiefs",
+    "start_time": "2024-09-13T16-30-00Z"
+}
+     
+        
+    
+      
+
+
+   
+
+ 
+    
+ 
+  ]
+  
