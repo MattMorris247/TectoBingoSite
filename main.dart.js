@@ -83244,7 +83244,9 @@ $2(a,b){var s,r,q,p,o=null,n={}
 if(b.a===B.cc)return B.Cp
 else if(b.c!=null)return B.Co
 else{s=b.b
-if(s==null||J.kb(s))return A.ai(A.N("No activities recorded yet!",o,o,o,A.R().$3$color$fontSize$letterSpacing(B.e,20,-2.5),o,o),o,o)}s.toString
+if(s==null||J.kb(s)){n=this.a.a.d==null
+s=n?"No activities recorded yet":"No activities recorded for this tile yet"
+return A.ai(A.N(s,o,o,o,A.R().$3$color$fontSize$letterSpacing(B.e,n?20:15,-2.5),o,o),o,o)}}s.toString
 n.a=s
 r=this.a
 if(r.a.d!=null){s=J.YA(s,new A.aig(r))
