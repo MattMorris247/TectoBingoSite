@@ -83388,7 +83388,7 @@ $1(a){var s=null,r=this.a.e,q=A.ai(A.N("Bingo Resources",s,s,s,A.R().$2$fontSize
 return A.dZ(B.I3,r,A.d3(A.b([B.N0,A.bM(s,10,s),new A.xK(s),A.bM(s,10,s),A.N("Pet Rule: ",s,s,s,A.R().$4$color$fontSize$fontWeight$letterSpacing(B.e,20,B.aW,-2.5),s,s),A.N("Extra pets/jars may be used to complete portions of tiles that directly correlate to the drop source.\nI.E: If you get an araxxor pet/jar, you may use that in lieu of an araxyte fang.",s,s,s,A.R().$3$color$fontSize$letterSpacing(B.e,14,-2.5),s,s),B.cT,A.N("List of Stuffables: ",s,s,s,A.R().$4$color$fontSize$fontWeight$letterSpacing(B.e,20,B.aW,-2.5),s,s),A.aAL("images/stuffablesList.png",s)],t.p),B.z,B.E,B.R),s,s,q)},
 $S:10}
 A.xK.prototype={
-a5(){return new A.Qv(B.v,A.aKv("2024-10-03 19:00:00Z"))}}
+a5(){return new A.Qv(B.v,A.aKv("2024-10-13 19:00:00Z"))}}
 A.Qv.prototype={
 af(){this.aA()
 this.acZ()},
@@ -83405,7 +83405,7 @@ s===$&&A.a()
 s.aJ()
 this.az()},
 H(a){var s=null,r=this.e.a
-return A.N("Bingo Begins in: "+B.h.c3(r,864e8)+" days, "+B.h.bo(B.h.c3(r,36e8),24)+" hours, "+B.h.bo(B.h.c3(r,6e7),60)+" minutes, "+B.h.bo(B.h.c3(r,1e6),60)+" seconds",s,s,s,A.R().$4$color$fontSize$fontWeight$letterSpacing(B.e,20,B.aW,-2.5),s,s)}}
+return A.N("Bingo ends in: "+B.h.c3(r,864e8)+" days, "+B.h.bo(B.h.c3(r,36e8),24)+" hours, "+B.h.bo(B.h.c3(r,6e7),60)+" minutes, "+B.h.bo(B.h.c3(r,1e6),60)+" seconds",s,s,s,A.R().$4$color$fontSize$fontWeight$letterSpacing(B.e,20,B.aW,-2.5),s,s)}}
 A.ak9.prototype={
 $1(a){this.a.Qp()},
 $S:120}
@@ -83964,44 +83964,38 @@ a=(b==null?$.aq=$.bx():b).bu("[DEFAULT]")
 A.aE(a,$.bS(),!0)
 b=A.dt(new A.bj(a))
 n=A.ec(b,b.gej().cW("newTiles"+a3))
-m=1,l=0,b=t.G,h=t.K,g=t.X
-case 2:if(!(m<26)){s=4
-break}s=m<10?5:7
+q=3
+b=o.b.bQ("team"+a3)
+h=A.ex(A.an(["teamPoints",0,"completedLines",A.an(["row1",!1,"row2",!1,"row3",!1,"row4",!1,"row5",!1,"col1",!1,"col2",!1,"col3",!1,"col4",!1,"col5",!1,"diag1",!1,"diag2",!1],t.N,t.y)],t.K,t.X))
+h.toString
+s=6
+return A.o(b.a.aR(h),$async$ke)
+case 6:q=1
+s=5
 break
-case 5:q=9
-f=n
-e=A.i(l)
-d=A.i(m)
-f.toString
-f=b.a(f.b).bQ("Tile"+e+d)
-A.aE(f,$.fO(),!0)
-e=A.ex(A.an(["tileCompleted",!1,"flipCompleted",!1,"checkBox",!1,"flipCheckBox",!1],h,g))
-e.toString
-s=12
-return A.o(f.aR(e),$async$ke)
-case 12:q=1
-s=11
-break
-case 9:q=8
+case 3:q=2
 a0=p
-k=A.a0(a0)
-A.b8().$1(J.bK(k))
-s=11
+m=A.a0(a0)
+A.b8().$1(J.bK(m))
+s=5
 break
-case 8:s=1
+case 2:s=1
 break
-case 11:s=6
+case 5:l=1,k=0,b=t.G,h=t.K,f=t.X
+case 7:if(!(l<26)){s=9
+break}s=l<10?10:12
 break
-case 7:q=14
-f=n
-e=A.i(m)
-f.toString
-f=b.a(f.b).bQ("Tile"+e)
-A.aE(f,$.fO(),!0)
-e=A.ex(A.an(["tileCompleted",!1,"flipCompleted",!1,"checkBox",!1,"flipCheckBox",!1],h,g))
+case 10:q=14
+e=n
+d=A.i(k)
+c=A.i(l)
 e.toString
+e=b.a(e.b).bQ("Tile"+d+c)
+A.aE(e,$.fO(),!0)
+d=A.ex(A.an(["tileCompleted",!1,"flipCompleted",!1,"checkBox",!1,"flipCheckBox",!1],h,f))
+d.toString
 s=17
-return A.o(f.aR(e),$async$ke)
+return A.o(e.aR(d),$async$ke)
 case 17:q=1
 s=16
 break
@@ -84013,15 +84007,18 @@ s=16
 break
 case 13:s=1
 break
-case 16:case 6:case 3:++m
-s=2
+case 16:s=11
 break
-case 4:q=19
-b=o.b.bQ("team"+a3)
-g=A.ex(A.an(["teamPoints",0,"completedLines",A.an(["row1",!1,"row2",!1,"row3",!1,"row4",!1,"row5",!1,"col1",!1,"col2",!1,"col3",!1,"col4",!1,"col5",!1,"diag1",!1,"diag2",!1],t.N,t.y)],h,g))
-g.toString
+case 12:q=19
+e=n
+d=A.i(l)
+e.toString
+e=b.a(e.b).bQ("Tile"+d)
+A.aE(e,$.fO(),!0)
+d=A.ex(A.an(["tileCompleted",!1,"flipCompleted",!1,"checkBox",!1,"flipCheckBox",!1],h,f))
+d.toString
 s=22
-return A.o(b.a.aR(g),$async$ke)
+return A.o(e.aR(d),$async$ke)
 case 22:q=1
 s=21
 break
@@ -84033,7 +84030,10 @@ s=21
 break
 case 18:s=1
 break
-case 21:return A.v(null,r)
+case 21:case 11:case 8:++l
+s=7
+break
+case 9:return A.v(null,r)
 case 1:return A.u(p,r)}})
 return A.w($async$ke,r)},
 l3(a){return this.an3(a)},
