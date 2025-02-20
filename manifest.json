@@ -1,11 +1,11 @@
 {
-    "name": "tectobingo",
-    "short_name": "tectobingo",
+    "name": "mds_home",
+    "short_name": "mds_home",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Tectonic's Valentine Bingo",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
