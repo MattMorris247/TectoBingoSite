@@ -84740,7 +84740,7 @@ A.ZV.prototype={
 $0(){var s=0,r=A.A(t.H)
 var $async$$0=A.u(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:s=2
-return A.l(A.aup(A.j0("docs.google.com/document/d/1cmD0B1lSyG0ill3UwcOhW1DfmHTmUa0UC9jxH16alzs/edit?usp=sharing",0,null)),$async$$0)
+return A.l(A.aup(A.j0("https://docs.google.com/document/d/1cmD0B1lSyG0ill3UwcOhW1DfmHTmUa0UC9jxH16alzs/edit",0,null)),$async$$0)
 case 2:return A.y(null,r)}})
 return A.z($async$$0,r)},
 $S:9}
