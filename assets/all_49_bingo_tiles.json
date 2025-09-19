@@ -1,0 +1,492 @@
+[
+  {
+    "name": "The Conjuring",
+    "rulesA": "Obtain a piece of Justiciar Armor",
+    "pointsA": 40,
+    "completedA": false,
+    "rulesB": "Obtain a Scythe of Vitur",
+    "pointsB": 60,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Hellraiser",
+    "rulesA": "Obtain a piece of Oathplate Armor",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Obtain 2 more pieces of Oathplate Armor (dupes are fine)",
+    "pointsB": 50,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Dracula",
+    "rulesA": "Obtain 2 blood shards",
+    "pointsA": 20,
+    "completedA": false,
+    "rulesB": "Obtain 3 more blood shards (5 total)",
+    "pointsB": 45,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Eric\u2019s Nightmare",
+    "rulesA": "Obtain 2 Bandos armor pieces (dupes are fine)",
+    "pointsA": 35,
+    "completedA": false,
+    "rulesB": "Obtain a Bandos Hilt",
+    "pointsB": 35,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Here\u2019s Johnny",
+    "rulesA": "Obtain 3 dragon axes",
+    "pointsA": 20,
+    "completedA": false,
+    "rulesB": "Obtain 1 of the following",
+    "pointsB": 35,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Squidward",
+    "rulesA": "Obtain EACH of the following",
+    "pointsA": 15,
+    "completedA": false,
+    "rulesB": "Obtain EACH of the following",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Haunted Mansion",
+    "rulesA": "Obtain 12 pieces of Barrows armor (dupes are fine)",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Obtain a complete set of any brothers Armor",
+    "pointsB": 35,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Ophelia\u2019s Fairies",
+    "rulesA": "Screenshot EVERY tier of impling in the OVERWORLD",
+    "pointsA": 25,
+    "completedA": false,
+    "rulesB": "Screenshot a lucky impling in the OVERWORLD",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Jaws",
+    "rulesA": "Obtain 3 big fish (dupes are fine)",
+    "pointsA": 25,
+    "completedA": false,
+    "rulesB": "Obtain a Golden Tench",
+    "pointsB": 35,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Fly",
+    "rulesA": "Obtain 9 Hueycoatl hides",
+    "pointsA": 25,
+    "completedA": false,
+    "rulesB": "Obtain a Dragon Hunter Wand",
+    "pointsB": 25,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Cujo",
+    "rulesA": "Obtain 3 uniques from Cerberus (dupes are fine)",
+    "pointsA": 40,
+    "completedA": false,
+    "rulesB": "Obtain a combination of 4 Crystal weapon/armor seeds",
+    "pointsB": 50,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Night of the Living Dead",
+    "rulesA": "Complete part A challenge for Night of the Living Dead",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Night of the Living Dead",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Carrie",
+    "rulesA": "Complete part A challenge for Carrie",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Carrie",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Frankenstein\u2019s Footies",
+    "rulesA": "Complete part A challenge for Frankenstein\u2019s Footies",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Frankenstein\u2019s Footies",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Wendigo",
+    "rulesA": "Obtain 2 Antler Guards",
+    "pointsA": 20,
+    "completedA": false,
+    "rulesB": "Obtain 4 pieces of Hunter guild outfit",
+    "pointsB": 30,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Phantom of the Opera",
+    "rulesA": "Complete part A challenge for Phantom of the Opera",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Phantom of the Opera",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Michael Myers",
+    "rulesA": "Complete part A challenge for Michael Myers",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Michael Myers",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Fazbear",
+    "rulesA": "Complete part A challenge for Fazbear",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Fazbear",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Chainsaw Massacre",
+    "rulesA": "Complete part A challenge for Chainsaw Massacre",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Chainsaw Massacre",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Evil Dave\u2019s Monster Mash",
+    "rulesA": "Complete part A challenge for Evil Dave\u2019s Monster Mash",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Evil Dave\u2019s Monster Mash",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Ritual",
+    "rulesA": "Complete part A challenge for The Ritual",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Ritual",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Eight Legged Freaks",
+    "rulesA": "Complete part A challenge for Eight Legged Freaks",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Eight Legged Freaks",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Jason Voorhees",
+    "rulesA": "Complete part A challenge for Jason Voorhees",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Jason Voorhees",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Mummy",
+    "rulesA": "Complete part A challenge for The Mummy",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Mummy",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Trick \u2018r Treat",
+    "rulesA": "Complete part A challenge for Trick \u2018r Treat",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Trick \u2018r Treat",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Bling the Thing",
+    "rulesA": "Complete part A challenge for Bling the Thing",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Bling the Thing",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Exorcist",
+    "rulesA": "Complete part A challenge for The Exorcist",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Exorcist",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Tomb Raider",
+    "rulesA": "Complete part A challenge for Tomb Raider",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Tomb Raider",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Evil Dead",
+    "rulesA": "Complete part A challenge for Evil Dead",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Evil Dead",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Wicked Witch",
+    "rulesA": "Complete part A challenge for Wicked Witch",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Wicked Witch",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Headless Horseman",
+    "rulesA": "Complete part A challenge for The Headless Horseman",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Headless Horseman",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Clarice",
+    "rulesA": "Complete part A challenge for Clarice",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Clarice",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Scissorhands",
+    "rulesA": "Complete part A challenge for Scissorhands",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Scissorhands",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Jedi\u2019s Deja Vu",
+    "rulesA": "Complete part A challenge for Jedi\u2019s Deja Vu",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Jedi\u2019s Deja Vu",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Krampus",
+    "rulesA": "Complete part A challenge for Krampus",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Krampus",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Cabin in the Woods",
+    "rulesA": "Complete part A challenge for The Cabin in the Woods",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Cabin in the Woods",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Purge",
+    "rulesA": "Complete part A challenge for The Purge",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Purge",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "One, Two, Freddy\u2019s Coming For You",
+    "rulesA": "Complete part A challenge for One, Two, Freddy\u2019s Coming For You",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for One, Two, Freddy\u2019s Coming For You",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Forest",
+    "rulesA": "Complete part A challenge for The Forest",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Forest",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Toast\u2019s Living Will",
+    "rulesA": "Complete part A challenge for Toast\u2019s Living Will",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Toast\u2019s Living Will",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Swamp Thing",
+    "rulesA": "Complete part A challenge for Swamp Thing",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Swamp Thing",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Ring",
+    "rulesA": "Complete part A challenge for The Ring",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Ring",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Frank-N-Furter",
+    "rulesA": "Complete part A challenge for Frank-N-Furter",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Frank-N-Furter",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Shining Twins",
+    "rulesA": "Complete part A challenge for The Shining Twins",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Shining Twins",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Casper the Friendly Revenant",
+    "rulesA": "Complete part A challenge for Casper the Friendly Revenant",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Casper the Friendly Revenant",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Gremlins",
+    "rulesA": "Complete part A challenge for Gremlins",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Gremlins",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "The Hills Have Eyes",
+    "rulesA": "Complete part A challenge for The Hills Have Eyes",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for The Hills Have Eyes",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Beetlejuice",
+    "rulesA": "Obtain an Abyssal lantern from GOTR",
+    "pointsA": 25,
+    "completedA": false,
+    "rulesB": "Obtain 2 Abyssal dyes from GOTR (dupes are fine)",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  },
+  {
+    "name": "Sanderson Sisters",
+    "rulesA": "Complete part A challenge for Sanderson Sisters",
+    "pointsA": 30,
+    "completedA": false,
+    "rulesB": "Complete part B challenge for Sanderson Sisters",
+    "pointsB": 40,
+    "completedB": false,
+    "tileCompleted": false
+  }
+]
