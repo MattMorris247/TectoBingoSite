@@ -321,7 +321,7 @@ aQZ(a){var s,r,q=a.graphemeLayoutBounds,p=B.b.ep(q,t.i)
 q=p.a
 s=J.ad(q)
 r=p.$ti.y[1]
-return new A.rU(new A.x(r.a(s.h(q,0)),r.a(s.h(q,1)),r.a(s.h(q,2)),r.a(s.h(q,3))),new A.ca(J.ag(a.graphemeClusterTextRange.start),J.ag(a.graphemeClusterTextRange.end)),B.kT[J.ag(a.dir.value)])},
+return new A.rU(new A.x(r.a(s.h(q,0)),r.a(s.h(q,1)),r.a(s.h(q,2)),r.a(s.h(q,3))),new A.ca(J.ag(a.graphemeClusterTextRange.start),J.ag(a.graphemeClusterTextRange.end)),B.kU[J.ag(a.dir.value)])},
 aR0(a,b){var s=a.getGlyphInfoAt(b)
 return s==null?null:A.aQZ(s)},
 b9T(a){var s,r="chromium/canvaskit.js"
@@ -33106,7 +33106,7 @@ N3(a){var s,r,q,p,o,n,m,l=A.b([],t.Lx)
 for(s=a.a,r=J.ad(s),q=a.$ti.y[1],p=0;p<r.gD(s);++p){o=q.a(r.h(s,p))
 n=o.rect
 m=J.ag(o.dir.value)
-l.push(new A.fV(n[0],n[1],n[2],n[3],B.kT[m]))}return l},
+l.push(new A.fV(n[0],n[1],n[2],n[3],B.kU[m]))}return l},
 hC(a){var s,r,q
 switch(a.b.a){case 0:s=a.a-1
 break
@@ -38160,7 +38160,7 @@ m=A.cI(s.h(0,"fontWeightIndex"))
 l=m!=null?A.b9K(m):"normal"
 r=A.aFM(s.h(0,"fontSize"))
 if(r==null)r=null
-p=new A.ate(new A.ac3(r,l,A.aa(s.h(0,"fontFamily")),B.Nl[o],B.kT[n]))
+p=new A.ate(new A.ac3(r,l,A.aa(s.h(0,"fontFamily")),B.Nl[o],B.kU[n]))
 break
 case"TextInput.clearClient":p=B.Fi
 break
@@ -97019,7 +97019,7 @@ return A.M(A.HJ(),$async$yS)
 case 6:m=b
 j=t.N
 n.x=A.iu(m,j,j)
-for(j=n.w,i=n.gahC(),h=0;h<2;++h){l=B.kU[h]
+for(j=n.w,i=n.gahC(),h=0;h<2;++h){l=B.kT[h]
 g=l.a
 f=J.eD(m,l.a)
 if(f==null){l.toString
@@ -97088,7 +97088,7 @@ while(true)switch(s){case 0:n=q.c
 n.toString
 s=2
 return A.M(A.qL(new A.aFx(),n,t.y),$async$zk)
-case 2:if(b===!0)for(n=q.w,p=0;p<2;++p){o=n.h(0,B.kU[p].a)
+case 2:if(b===!0)for(n=q.w,p=0;p<2;++p){o=n.h(0,B.kT[p].a)
 if(o!=null)o.jI(o.a.oD(B.ao,B.bB,"https://wiseoldman.com"))}return A.J(null,r)}})
 return A.K($async$zk,r)},
 aan(){var s,r,q,p
@@ -97116,7 +97116,7 @@ if(m.z){p=A.ac(B.d.av(25.5),B.aL.t()>>>16&255,B.aL.t()>>>8&255,B.aL.t()&255)
 o=A.bs(8)
 n=A.fM(B.aL,1)
 B.b.O(q,A.b([B.a5,A.bT(l,A.cF(A.b([B.L_,B.cE,A.cC(A.af("You have unsaved changes. Don't forget to save!",l,l,l,A.hv(l,l,B.o6,l,l,l,l,l,l,l,l,l,l,l,B.U,l,l,!0,l,l,l,l,l,l,l,l),l,l),1)],s),B.r,B.m,B.p),B.o,l,l,new A.bD(p,l,n,o,l,l,B.L),l,l,l,B.k6,l)],s))}q=A.b([A.ow(new A.bx(B.bc,A.bm(q,B.W,B.m,B.p),l),l,4,l),B.bq],s)
-B.b.O(q,new A.W(B.kU,new A.aFC(m,j,i.a===B.ab),t.Qw))
+B.b.O(q,new A.W(B.kT,new A.aFC(m,j,i.a===B.ab),t.Qw))
 q.push(B.bq)
 i=m.z&&!m.y?m.gTk():l
 i=A.cC(A.wg(B.pr,B.BU,i,A.mM(l,l,B.aQ,l,l,l,l,l,l,B.i,l,l,B.k5,l,new A.c2(A.bs(12),B.n),l,l,l,l,l)),1)
@@ -97486,7 +97486,7 @@ $0(){return B.P3},
 $S:61}
 A.a6A.prototype={
 $2(a,b){var s=null,r=this.a
-return A.lR(s,s,A.em(A.bm(A.b([B.kO,B.a5,A.af("Authentication Error",s,s,s,A.u(r).ok.f,s,s),B.aH,A.af(J.d5(a),s,s,s,A.u(r).ok.z,B.av,s),B.a5,A.rz(!1,B.a0T,s,s,s,s,s,s,new A.a6y(this.b),s,s)],t.p),B.r,B.bK,B.p),s,s))},
+return A.lR(s,s,A.em(A.bm(A.b([B.kO,B.a5,A.af("Authentication Error",s,s,s,A.u(r).ok.f,s,s),B.aH,A.af(J.d5(a),s,s,s,A.u(r).ok.z,B.av,s),B.a5,A.rz(!1,B.a0U,s,s,s,s,s,s,new A.a6y(this.b),s,s)],t.p),B.r,B.bK,B.p),s,s))},
 $S:103}
 A.a6y.prototype={
 $0(){var s=this.a,r=$.vf()
@@ -97716,7 +97716,7 @@ p=A.af("Admin Tools",q,q,q,p==null?q:p.oA(B.bH),q,q)
 s=t.p
 r=A.b([],s)
 if(A.nP(b.b)===B.d2)B.b.O(r,A.b([A.aJT(q,B.KW,new A.a9r(a),B.a11,B.BV,B.ps),B.IR],s))
-r.push(A.aJT(q,B.KR,new A.a9s(a),B.a12,B.a0V,B.ps))
+r.push(A.aJT(q,B.KR,new A.a9s(a),B.a12,B.a0W,B.ps))
 return A.bm(A.b([p,B.a5,A.ow(new A.bx(B.bc,A.bm(r,B.r,B.m,B.p),q),q,q,q)],s),B.W,B.m,B.p)},
 aum(a,b,c){A.cP(a,!1).kn(A.ake(new A.a9M(b),null,t.z)).bu(new A.a9N(this,c),t.P)},
 a27(a,b,c){A.qL(new A.a9Q(this,b,new A.ew(new A.c6(c,B.bB,B.ao),$.aw()),c),a,t.z)},
@@ -97930,9 +97930,9 @@ $S:0}
 A.rP.prototype={
 ir(a,b){return A.l5(b.f9($.vf(),t.uN),new A.afg(this,a,b),new A.afh(),new A.afi(),!1,!0,!1,t.ih,t.l7)},
 a8h(a,b){var s=null,r=t.p
-return A.bm(A.b([new A.V1(b,s),new A.bx(B.dg,A.cF(A.b([A.cC(A.wg(B.KZ,B.a0L,new A.af2(a),A.mM(s,s,B.aQ,s,s,s,s,s,s,B.i,s,s,B.k4,s,new A.c2(A.bs(8),B.n),s,s,s,s,s)),1),B.bp,A.cC(A.wg(B.Ld,B.a0O,new A.af3(this,a),A.mM(s,s,B.dU,s,s,s,s,s,s,B.i,s,s,B.k4,s,new A.c2(A.bs(8),B.n),s,s,s,s,s)),1)],r),B.r,B.m,B.p),s),A.cC(A.jn(B.bs,A.b([A.Ra(new A.af4(this,b)),this.a8k(a)],r),B.y,B.bM,s),1)],r),B.r,B.m,B.p)},
+return A.bm(A.b([new A.V1(b,s),new A.bx(B.dg,A.cF(A.b([A.cC(A.wg(B.KZ,B.a0M,new A.af2(a),A.mM(s,s,B.aQ,s,s,s,s,s,s,B.i,s,s,B.k4,s,new A.c2(A.bs(8),B.n),s,s,s,s,s)),1),B.bp,A.cC(A.wg(B.Ld,B.a0P,new A.af3(this,a),A.mM(s,s,B.dU,s,s,s,s,s,s,B.i,s,s,B.k4,s,new A.c2(A.bs(8),B.n),s,s,s,s,s)),1)],r),B.r,B.m,B.p),s),A.cC(A.jn(B.bs,A.b([A.Ra(new A.af4(this,b)),this.a8k(a)],r),B.y,B.bM,s),1)],r),B.r,B.m,B.p)},
 a8k(a){var s=null
-return A.Sz(20,A.lp(s,A.bT(s,B.a0Z,B.o,s,s,new A.bD(B.x,s,s,s,s,s,B.d6),40,s,s,s,40),B.a1,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.af5(this,a),s,s,s,s,s,s),s,s,s,20,s,s)},
+return A.Sz(20,A.lp(s,A.bT(s,B.a1_,B.o,s,s,new A.bD(B.x,s,s,s,s,s,B.d6),40,s,s,s,40),B.a1,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.af5(this,a),s,s,s,s,s,s),s,s,s,20,s,s)},
 akD(a){A.qL(new A.afb(),a,t.z)},
 u2(a,b){return this.adA(a,b)},
 adA(a,b){var s=0,r=A.L(t.H),q=1,p=[],o,n,m,l,k
@@ -98034,7 +98034,7 @@ n=A.u(a).ok.z
 n=A.af("If you had a great time and enjoy the website",l,l,l,n==null?l:n.X2(B.b9,B.kJ),B.av,l)
 m=A.u(a).ok.z
 s=A.bm(A.b([s,B.a5,A.bT(l,A.bm(A.b([B.a0F,B.aH,n,B.d1,A.af("you can donate me cheese :)",l,l,l,m==null?l:m.e9(B.nD,B.U),B.av,l)],h),B.r,B.m,B.p),B.o,l,l,new A.bD(q,l,o,p,l,l,B.L),l,l,l,B.k6,l)],h),B.r,B.m,B.aE)
-return A.qS(A.b([A.em(A.jr(!1,B.a1_,l,l,l,l,l,l,new A.afa(a),l,A.ui(l,l,A.ac(r,B.aL.t()>>>16&255,B.aL.t()>>>8&255,B.aL.t()&255),l,l,l,l,l,l,B.aL,l,l,l,l,new A.c2(A.bs(8),B.n),l,l,l,l,l)),l,l)],h),k,s,new A.c2(j,new A.aX(B.aL,2,B.A,-1)),i)},
+return A.qS(A.b([A.em(A.jr(!1,B.a10,l,l,l,l,l,l,new A.afa(a),l,A.ui(l,l,A.ac(r,B.aL.t()>>>16&255,B.aL.t()>>>8&255,B.aL.t()&255),l,l,l,l,l,l,B.aL,l,l,l,l,new A.c2(A.bs(8),B.n),l,l,l,l,l)),l,l)],h),k,s,new A.c2(j,new A.aX(B.aL,2,B.A,-1)),i)},
 $S:69}
 A.afa.prototype={
 $0(){return A.cP(this.a,!1).cT()},
@@ -98274,7 +98274,7 @@ if(r==null)r=p
 else{q=A.u(a).ax.k3
 q=r.b3(A.ac(153,q.t()>>>16&255,q.t()>>>8&255,q.t()&255))
 r=q}B.b.O(n,A.b([B.d1,A.af("Time: "+o,p,p,p,r,p,p)],s))}o=A.bm(n,B.W,B.m,B.aE)
-return A.qS(A.b([A.jr(!1,B.fN,p,p,p,p,p,p,new A.a5x(a),p,p),A.wg(B.L6,B.a0P,new A.a5y(a),A.mM(p,p,A.u(a).ax.fy,p,p,p,p,p,p,B.i,p,p,p,p,p,p,p,p,p,p))],s),p,o,p,B.a0s)},
+return A.qS(A.b([A.jr(!1,B.fN,p,p,p,p,p,p,new A.a5x(a),p,p),A.wg(B.L6,B.a0Q,new A.a5y(a),A.mM(p,p,A.u(a).ax.fy,p,p,p,p,p,p,B.i,p,p,p,p,p,p,p,p,p,p))],s),p,o,p,B.a0s)},
 $S:69}
 A.a5x.prototype={
 $0(){return A.cP(this.a,!1).m8(!1)},
@@ -98427,7 +98427,7 @@ r=A.cC(A.bT(k,A.wg(B.L7,B.a0B,q,A.mM(k,k,B.x,k,k,k,k,k,k,B.i,k,k,k,B.x,new A.c2(
 s=A.bs(12)
 o=A.b([new A.bt(0,B.K,A.ac(p,B.eY.t()>>>16&255,B.eY.t()>>>8&255,B.eY.t()&255),B.ej,8)],o)
 q=l.w?new A.avZ(l):k
-o=A.cF(A.b([r,B.bp,A.cC(A.bT(k,A.wg(B.KY,B.a10,q,A.mM(k,k,B.x,k,k,k,k,k,k,B.i,k,k,k,B.x,new A.c2(A.bs(12),B.n),k,k,k,k,k)),B.o,k,k,new A.bD(k,k,k,s,o,B.Ml,B.L),56,k,k,k,k),1)],d),B.r,B.m,B.p)
+o=A.cF(A.b([r,B.bp,A.cC(A.bT(k,A.wg(B.KY,B.a0I,q,A.mM(k,k,B.x,k,k,k,k,k,k,B.i,k,k,k,B.x,new A.c2(A.bs(12),B.n),k,k,k,k,k)),B.o,k,k,new A.bD(k,k,k,s,o,B.Ml,B.L),56,k,k,k,k),1)],d),B.r,B.m,B.p)
 s=A.fM(i?B.ax:B.b9,1)
 r=A.bs(12)
 q=A.ui(k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.c2(A.bs(12),B.n),k,k,k,k,k)
@@ -98669,7 +98669,7 @@ d=a3?B.ax:B.i
 d=A.DA(b,new A.f2(4,e,B.dN),b,B.oG,b,b,b,b,!0,b,b,b,b,b,b,d,!0,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,!0,!0,b,b,b,b,b,b,b,b,b,b,b,b,b)
 e=A.b([B.IV],t.FG)
 B.b.O(e,new A.W(l,new A.aDP(),A.V(l).i("W<1,j_<l>>")))
-B.b.O(k,A.b([A.bT(b,A.bm(A.b([g,B.aH,A.b_u(d,B.a0W,e,new A.aDQ(c),f,t.N)],m),B.W,B.m,B.p),B.o,b,b,new A.bD(j,b,h,i,b,b,B.L),b,b,b,B.bc,1/0),B.a5],m))}j=A.bs(12)
+B.b.O(k,A.b([A.bT(b,A.bm(A.b([g,B.aH,A.b_u(d,B.a0X,e,new A.aDQ(c),f,t.N)],m),B.W,B.m,B.p),B.o,b,b,new A.bD(j,b,h,i,b,b,B.L),b,b,b,B.bc,1/0),B.a5],m))}j=A.bs(12)
 i=c.w
 i=i==null?"Total Activities: "+J.bl(s):"Activities by "+i+": "+J.bl(s)
 h=A.u(a1).ok.w
@@ -98921,7 +98921,7 @@ r=A.b([A.aN4(n.w,s,"B",n.a.e,i)],p)
 if(g)r.push(new A.vl(n.a.e,i,"B",s,o))
 h.push(A.cF(A.b([j,B.m2,A.cC(A.bm(r,B.r,B.m,B.p),1)],p),B.W,B.m,B.p))}j=A.dE(A.Go(A.bm(h,B.r,B.m,B.aE),o),o,17976931348623157e292)
 p=A.b([],p)
-if(g)p.push(A.b41(B.Lb,B.a0K,new A.aEJ(n,l,m),A.ui(o,o,o,o,o,o,o,o,o,A.u(l).ax.b,o,o,o,o,o,o,o,o,o,o)))
+if(g)p.push(A.b41(B.Lb,B.a0L,new A.aEJ(n,l,m),A.ui(o,o,o,o,o,o,o,o,o,A.u(l).ax.b,o,o,o,o,o,o,o,o,o,o)))
 p.push(A.jr(!1,B.md,o,o,o,o,o,o,new A.aEK(l),o,o))
 return A.qS(p,o,j,o,k)},
 $S:718}
@@ -98953,7 +98953,7 @@ $0(){return B.CM},
 $S:720}
 A.aEM.prototype={
 $2(a,b){var s=null,r=A.af("Failed to load tile data: "+A.m(a),s,s,s,s,s,s)
-return A.qS(A.b([A.jr(!1,B.md,s,s,s,s,s,s,new A.aEE(this.a),s,s)],t.p),s,r,s,B.a0I)},
+return A.qS(A.b([A.jr(!1,B.md,s,s,s,s,s,s,new A.aEE(this.a),s,s)],t.p),s,r,s,B.a0J)},
 $S:721}
 A.aEE.prototype={
 $0(){return A.cP(this.a,!1).cT()},
@@ -102305,8 +102305,8 @@ B.o=new A.vK(0,"none")
 B.a4P=new A.auV(0,"material")
 B.nA=new A.oy(null,null,null,null,null,null,null,null)
 B.a5=new A.dv(null,16,null,null)
-B.a0S=new A.bi("Loading tile data...",null,null,null,null,null,null,null,null)
-B.OF=A.b(s([B.nA,B.a5,B.a0S]),t.p)
+B.a0T=new A.bi("Loading tile data...",null,null,null,null,null,null,null,null)
+B.OF=A.b(s([B.nA,B.a5,B.a0T]),t.p)
 B.I6=new A.vR(B.af,B.m,B.aE,B.r,null,B.b2,null,0,B.OF,null)
 B.CM=new A.ig(null,B.I6,null,null,null,null)
 B.CN=new A.fo(0,1)
@@ -102784,8 +102784,8 @@ B.FI=new A.ld(B.ae,null,null,B.I7,null)
 B.FJ=new A.ld(B.ae,null,null,B.nA,null)
 B.i=new A.n(1,1,1,1,B.e)
 B.Zg=new A.o(!0,B.i,null,null,null,null,48,B.H,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0Q=new A.bi("T",null,B.Zg,null,null,null,null,null,null)
-B.FK=new A.ld(B.ae,null,null,B.a0Q,null)
+B.a0R=new A.bi("T",null,B.Zg,null,null,null,null,null,null)
+B.FK=new A.ld(B.ae,null,null,B.a0R,null)
 B.FL=new A.Bz(null,null,null,null,null,null,null,null,null)
 B.FM=new A.BA(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.nz=new A.eG(0,B.n)
@@ -103037,8 +103037,8 @@ B.a1=new A.Pn(1,"start")
 B.IT=new A.Pp(null)
 B.IU=new A.Cj(null,null,null,null,null,null,null,null,null)
 B.fM=new A.o(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0N=new A.bi("All Players",null,B.fM,null,null,null,null,null,null)
-B.IV=new A.j_(null,B.a0N,B.eK,null,t.b7)
+B.a0O=new A.bi("All Players",null,B.fM,null,null,null,null,null,null)
+B.IV=new A.j_(null,B.a0O,B.eK,null,t.b7)
 B.IW=new A.Ck(null,null,null)
 B.C=new A.aY(0)
 B.bb=new A.aY(1e5)
@@ -103587,6 +103587,9 @@ B.pM=A.b(s([B.a3f,B.a3k,B.a3i,B.a3j,B.a3h,B.a3g]),A.a4("A<nV>"))
 B.Wn=new A.yi(1,"server")
 B.Wo=new A.yi(2,"cache")
 B.pN=A.b(s([B.iE,B.Wn,B.Wo]),A.a4("A<yi>"))
+B.a2W=new A.q1("ehb_wom","EHB WOM","Wise Old Man link for EHB activities")
+B.a2V=new A.q1("thieving_wom","Skilling WOM","Wise Old Man link for Thieving activities")
+B.kT=A.b(s([B.a2W,B.a2V]),A.a4("A<q1>"))
 B.NH=A.b(s(["Q1","Q2","Q3","Q4"]),t.s)
 B.NI=A.b(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.n)
 B.Db=new A.NV(2,"outer")
@@ -103603,7 +103606,7 @@ B.ay=new A.H0(0,"upstream")
 B.NN=A.b(s([B.ay,B.l]),A.a4("A<H0>"))
 B.b_=new A.H4(0,"rtl")
 B.a6=new A.H4(1,"ltr")
-B.kT=A.b(s([B.b_,B.a6]),A.a4("A<H4>"))
+B.kU=A.b(s([B.b_,B.a6]),A.a4("A<H4>"))
 B.pO=A.b(s(["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]),t.ee)
 B.FD=new A.vD(0,"auto")
 B.FE=new A.vD(1,"full")
@@ -103674,9 +103677,6 @@ B.Te=new A.tD(2,"set")
 B.Tf=new A.tD(3,"deleteType")
 B.O7=A.b(s([B.Td,B.zO,B.Te,B.Tf]),A.a4("A<tD>"))
 B.O8=A.b(s(["click","scroll"]),t.s)
-B.a2W=new A.q1("ehb_wom","EHB WOM","Wise Old Man link for EHB activities")
-B.a2V=new A.q1("thieving_wom","Thieving WOM","Wise Old Man link for Thieving activities")
-B.kU=A.b(s([B.a2W,B.a2V]),A.a4("A<q1>"))
 B.Em=new A.oh()
 B.fE=new A.TU(1,"page")
 B.ik=new A.f4(B.a0,B.fE)
@@ -104857,8 +104857,8 @@ B.Tl=new A.xz(4,"unknown")
 B.Tm=new A.F_(null)
 B.Lf=new A.c8(B.ph,18,B.c6,null,null)
 B.Xi=new A.o(!0,B.c6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a0J=new A.bi("Logout",null,B.Xi,null,null,null,null,null,null)
-B.Ny=A.b(s([B.Lf,B.bp,B.a0J]),t.p)
+B.a0K=new A.bi("Logout",null,B.Xi,null,null,null,null,null,null)
+B.Ny=A.b(s([B.Lf,B.bp,B.a0K]),t.p)
 B.TS=new A.hX(B.aw,B.m,B.p,B.r,null,B.b2,null,0,B.Ny,null)
 B.Tn=new A.lM("logout",null,B.TS,null,A.a4("lM<l>"))
 B.To=new A.xD(null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -104925,12 +104925,12 @@ B.ih=new A.kA(null,null)
 B.dA=new A.o(!0,B.i,null,null,null,null,null,B.H,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a14=new A.bi("Rank",null,B.dA,null,null,null,null,null,null)
 B.W5=new A.dv(40,null,B.a14,null)
-B.a0X=new A.bi("Team",null,B.dA,null,null,null,null,null,null)
-B.JG=new A.oP(2,B.e5,B.a0X,null)
-B.a0Y=new A.bi("Points",null,B.dA,null,null,null,null,null,null)
-B.JJ=new A.oP(1,B.e5,B.a0Y,null)
-B.a0U=new A.bi("Completion",null,B.dA,null,null,null,null,null,null)
-B.JH=new A.oP(1,B.e5,B.a0U,null)
+B.a0Y=new A.bi("Team",null,B.dA,null,null,null,null,null,null)
+B.JG=new A.oP(2,B.e5,B.a0Y,null)
+B.a0Z=new A.bi("Points",null,B.dA,null,null,null,null,null,null)
+B.JJ=new A.oP(1,B.e5,B.a0Z,null)
+B.a0V=new A.bi("Completion",null,B.dA,null,null,null,null,null,null)
+B.JH=new A.oP(1,B.e5,B.a0V,null)
 B.a15=new A.bi("Activities",null,B.dA,null,null,null,null,null,null)
 B.JI=new A.oP(1,B.e5,B.a15,null)
 B.Oy=A.b(s([B.W5,B.JG,B.JJ,B.JH,B.JI]),t.p)
@@ -105207,12 +105207,12 @@ B.Bl=new A.lW(5,"timeout")
 B.Wf=new A.yh(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0x=new A.bi("Activity deleted successfully",null,null,null,null,null,null,null,null)
 B.Wg=new A.kG(B.a0x,B.c0,null,null,null,null,null,null,B.ey,null,null,null,null,B.bj,null,null,null,B.y,null)
-B.a0R=new A.bi("Please enter valid positive numbers for points",null,null,null,null,null,null,null,null)
-B.Wh=new A.kG(B.a0R,B.c6,null,null,null,null,null,null,null,null,null,null,null,B.bj,null,null,null,B.y,null)
+B.a0S=new A.bi("Please enter valid positive numbers for points",null,null,null,null,null,null,null,null)
+B.Wh=new A.kG(B.a0S,B.c6,null,null,null,null,null,null,null,null,null,null,null,B.bj,null,null,null,B.y,null)
 B.a0t=new A.bi("Please fill in all required fields",null,null,null,null,null,null,null,null)
 B.Wi=new A.kG(B.a0t,B.c6,null,null,null,null,null,null,null,null,null,null,null,B.bj,null,null,null,B.y,null)
-B.a0M=new A.bi("URL copied to clipboard",null,null,null,null,null,null,null,null)
-B.Wj=new A.kG(B.a0M,null,null,null,null,null,null,null,null,null,null,null,null,B.bj,null,null,null,B.y,null)
+B.a0N=new A.bi("URL copied to clipboard",null,null,null,null,null,null,null,null)
+B.Wj=new A.kG(B.a0N,null,null,null,null,null,null,null,null,null,null,null,null,B.bj,null,null,null,B.y,null)
 B.a0v=new A.bi("\u2705 WOM links updated successfully!",null,null,null,null,null,null,null,null)
 B.Wk=new A.kG(B.a0v,B.c0,null,null,null,null,null,null,null,null,null,null,null,B.bj,null,null,null,B.y,null)
 B.Bm=new A.Gy(0,"permissive")
@@ -105601,23 +105601,23 @@ B.a0D=new A.bi("Are you sure you want to delete this activity?",null,null,null,n
 B.BV=new A.bi("WOM Links Configuration",null,null,null,null,null,null,null,null)
 B.ZA=new A.o(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a0F=new A.bi("\ud83e\uddc0",null,B.ZA,null,null,null,null,null,null)
-B.a0I=new A.bi("Error",null,null,null,null,null,null,null,null)
+B.a0I=new A.bi("Skill WOM",null,B.BR,null,null,null,null,null,null)
+B.a0J=new A.bi("Error",null,null,null,null,null,null,null,null)
 B.BW=new A.bi("Access Denied",null,null,null,null,null,null,null,null)
 B.fN=new A.bi("Cancel",null,null,null,null,null,null,null,null)
-B.a0K=new A.bi("Edit Tile",null,null,null,null,null,null,null,null)
-B.a0L=new A.bi("Bingo Resources",null,null,null,null,null,null,null,null)
-B.a0O=new A.bi("Activity Log",null,null,null,null,null,null,null,null)
-B.a0P=new A.bi("Delete",null,null,null,null,null,null,null,null)
-B.a0T=new A.bi("Retry",null,null,null,null,null,null,null,null)
-B.a0V=new A.bi("View Analytics",null,null,null,null,null,null,null,null)
-B.a0W=new A.bi("All Players",null,null,null,null,null,null,null,null)
+B.a0L=new A.bi("Edit Tile",null,null,null,null,null,null,null,null)
+B.a0M=new A.bi("Bingo Resources",null,null,null,null,null,null,null,null)
+B.a0P=new A.bi("Activity Log",null,null,null,null,null,null,null,null)
+B.a0Q=new A.bi("Delete",null,null,null,null,null,null,null,null)
+B.a0U=new A.bi("Retry",null,null,null,null,null,null,null,null)
+B.a0W=new A.bi("View Analytics",null,null,null,null,null,null,null,null)
+B.a0X=new A.bi("All Players",null,null,null,null,null,null,null,null)
 B.RY=new A.i(1,1)
 B.UW=new A.jm(B.Y,B.RY,2)
 B.Nc=A.b(s([B.UW]),t.kO)
 B.Xa=new A.o(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.Nc,null,null,null)
-B.a0Z=new A.bi("\ud83c\udf83",null,B.Xa,null,null,null,null,null,null)
-B.a1_=new A.bi("-Toast",null,null,null,null,null,null,null,null)
-B.a10=new A.bi("Thieving WOM",null,B.BR,null,null,null,null,null,null)
+B.a1_=new A.bi("\ud83c\udf83",null,B.Xa,null,null,null,null,null,null)
+B.a10=new A.bi("-Toast",null,null,null,null,null,null,null,null)
 B.a11=new A.bi("Edit WOM button URLs in Bingo Resources",null,null,null,null,null,null,null,null)
 B.a12=new A.bi("Team performance and statistics",null,null,null,null,null,null,null,null)
 B.BY=new A.bi("Go Back",null,null,null,null,null,null,null,null)
